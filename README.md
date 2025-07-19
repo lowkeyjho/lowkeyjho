@@ -19,3 +19,7 @@
 <hr style="border: 0px; height: 4px; border-radius: 10px; background-color: #777; margin: 24px 0;" />
 
 [![TROPHY](https://github-profile-trophy.vercel.app/?username=lowkeyjho&theme=discord&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=lowkeyjho&style=for-the-badge&color=lightgray">
+</p>
