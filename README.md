@@ -14,7 +14,7 @@
 > - 🏃‍♀️ **Aiming to become a better person, and developer!**
 
 ## **_🧪 DEVSTACK & WORKFLOW_**
-[![SKILLS](https://skillicons.dev/icons?i=rust,git,js,python,npm,discord,ts,vscode,react,nodejs,notion,github,obsidian,vite&theme=dark)](https://skillicons.dev/)
+[![SKILLS](https://skillicons.dev/icons?i=rust,git,js,python,npm,discord,ts,vscode,react,nodejs,notion,obsidian,vite&theme=dark)](https://skillicons.dev/)
 
 <hr style="border: 0px; height: 4px; border-radius: 10px; background-color: #777; margin: 24px 0;" />
 
